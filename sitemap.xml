@@ -27,6 +27,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/1902-orient-motorcycle/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/royal-enfield-bullet/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/suzuki-gs500/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/a-ural-motorcycle-with-a-sidecar/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
